@@ -1,0 +1,29 @@
+.artem div{
+
+    width:33%;
+    border-color:black;
+    border-style: solid;
+    border-width: 5px;
+    display: table-cell;
+
+}
+.text_rac{
+
+    width:100%;
+    color:Red;
+    text-align: center;
+    text-transform: capitalize;
+
+}
+.rac{
+
+    background-color:black;
+    width:100%;
+    transition: background-color 0.3s;
+
+}
+
+/*@keyframes example {
+    from {background-color: red;}
+    to {background-color: yellow;}
+  }*/
